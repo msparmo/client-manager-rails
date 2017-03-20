@@ -1,24 +1,5 @@
-# README
+# Ruby on Rails tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is for the ruby on rails tutorial at [wnydevcode](http://www.wnydevcode.com/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Ruby on Rails Setup](http://www.wnydevcode.com/ruby-on-rails-setup/)
